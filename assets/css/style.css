@@ -1,0 +1,42 @@
+body {
+	background-image: url("../../whirlpool.png");
+}
+
+.navbar-header {
+	padding: 10px;
+}
+
+#nfl {
+	width: 50px;
+	height: 50px;
+}
+
+#mlb {
+	width: 50px;
+	height: 50px;
+}
+
+#nba {
+	width: 40px;
+	height: 50px;
+}
+
+#nhl {
+	width: 50px;
+	height: 50px;
+}
+
+#title {
+	text-align: center 
+}
+
+#box-left {
+	background-color: white;
+	width: 270px;
+}
+
+#box-right {
+	background-color: white;
+	margin-left: 40px;
+	width: 650px;
+}
